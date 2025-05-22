@@ -1,0 +1,496 @@
+INFO 2025-05-21 21:05:03,536 autoreload 18828 20072 Watching for file changes with StatReloader
+INFO 2025-05-21 21:05:03,681 autoreload 15328 10856 Watching for file changes with StatReloader
+INFO 2025-05-21 21:05:03,681 autoreload 17800 18580 Watching for file changes with StatReloader
+INFO 2025-05-21 21:05:03,687 autoreload 18220 19784 Watching for file changes with StatReloader
+INFO 2025-05-21 21:10:59,617 autoreload 15328 10856 D:\LollyPos\backend\api\views.py changed, reloading.
+INFO 2025-05-21 21:10:59,632 autoreload 18220 19784 D:\LollyPos\backend\api\views.py changed, reloading.
+INFO 2025-05-21 21:10:59,637 autoreload 17800 18580 D:\LollyPos\backend\api\views.py changed, reloading.
+INFO 2025-05-21 21:10:59,855 autoreload 18828 20072 D:\LollyPos\backend\lollypos_project\settings.py changed, reloading.
+INFO 2025-05-21 21:11:01,834 autoreload 18548 20144 Watching for file changes with StatReloader
+INFO 2025-05-21 21:11:01,884 autoreload 10396 4724 Watching for file changes with StatReloader
+INFO 2025-05-21 21:11:01,983 autoreload 19224 5060 Watching for file changes with StatReloader
+INFO 2025-05-21 21:11:02,071 autoreload 15068 2556 Watching for file changes with StatReloader
+INFO 2025-05-21 21:14:27,607 autoreload 18528 17268 Watching for file changes with StatReloader
+INFO 2025-05-21 21:16:59,948 autoreload 18712 14980 Watching for file changes with StatReloader
+INFO 2025-05-21 21:17:43,891 autoreload 18528 17268 D:\LollyPos\backend\lollypos_project\settings.py changed, reloading.
+INFO 2025-05-21 21:17:44,342 autoreload 19224 5060 D:\LollyPos\backend\lollypos_project\settings.py changed, reloading.
+INFO 2025-05-21 21:17:44,352 autoreload 18548 20144 D:\LollyPos\backend\lollypos_project\settings.py changed, reloading.
+INFO 2025-05-21 21:17:44,443 autoreload 15068 2556 D:\LollyPos\backend\lollypos_project\settings.py changed, reloading.
+INFO 2025-05-21 21:17:44,448 autoreload 18712 14980 D:\LollyPos\backend\lollypos_project\settings.py changed, reloading.
+INFO 2025-05-21 21:17:44,493 autoreload 10396 4724 D:\LollyPos\backend\lollypos_project\settings.py changed, reloading.
+INFO 2025-05-21 21:17:45,023 autoreload 20264 18220 Watching for file changes with StatReloader
+INFO 2025-05-21 21:17:45,525 autoreload 19552 18396 Watching for file changes with StatReloader
+INFO 2025-05-21 21:17:45,609 autoreload 7272 15160 Watching for file changes with StatReloader
+INFO 2025-05-21 21:17:45,778 autoreload 16792 9616 Watching for file changes with StatReloader
+INFO 2025-05-21 21:17:45,833 autoreload 19988 18088 Watching for file changes with StatReloader
+INFO 2025-05-21 21:17:45,927 autoreload 1220 19748 Watching for file changes with StatReloader
+INFO 2025-05-21 21:18:00,180 autoreload 20388 7576 Watching for file changes with StatReloader
+INFO 2025-05-21 21:18:09,095 autoreload 19552 18396 D:\LollyPos\backend\lollypos_project\settings.py changed, reloading.
+INFO 2025-05-21 21:18:09,102 autoreload 20388 7576 D:\LollyPos\backend\lollypos_project\settings.py changed, reloading.
+INFO 2025-05-21 21:18:09,124 autoreload 7272 15160 D:\LollyPos\backend\lollypos_project\settings.py changed, reloading.
+INFO 2025-05-21 21:18:09,159 autoreload 16792 9616 D:\LollyPos\backend\lollypos_project\settings.py changed, reloading.
+INFO 2025-05-21 21:18:09,166 autoreload 19988 18088 D:\LollyPos\backend\lollypos_project\settings.py changed, reloading.
+INFO 2025-05-21 21:18:09,175 autoreload 1220 19748 D:\LollyPos\backend\lollypos_project\settings.py changed, reloading.
+INFO 2025-05-21 21:18:09,596 autoreload 20264 18220 D:\LollyPos\backend\lollypos_project\settings.py changed, reloading.
+INFO 2025-05-21 21:18:11,474 autoreload 19580 18564 Watching for file changes with StatReloader
+INFO 2025-05-21 21:18:11,565 autoreload 18648 20200 Watching for file changes with StatReloader
+INFO 2025-05-21 21:18:11,732 autoreload 19712 884 Watching for file changes with StatReloader
+INFO 2025-05-21 21:18:11,841 autoreload 9616 9660 Watching for file changes with StatReloader
+INFO 2025-05-21 21:18:11,875 autoreload 20044 716 Watching for file changes with StatReloader
+INFO 2025-05-21 21:18:11,878 autoreload 19576 20224 Watching for file changes with StatReloader
+INFO 2025-05-21 21:18:12,050 autoreload 20464 13512 Watching for file changes with StatReloader
+INFO 2025-05-21 21:19:59,475 middleware 19712 5424 Auth Request: POST /api/token/
+INFO 2025-05-21 21:19:59,476 middleware 19712 5424 Auth Headers: {
+  "Content-Length": "41",
+  "Content-Type": "application/json",
+  "Host": "localhost:8000",
+  "User-Agent": "python-requests/2.32.3",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive"
+}
+INFO 2025-05-21 21:19:59,476 middleware 19712 5424 Auth Body: {
+  "username": "admin",
+  "password": "*****"
+}
+INFO 2025-05-21 21:20:00,355 middleware 19712 5424 Auth Response: 200
+INFO 2025-05-21 21:20:00,356 basehttp 19712 5424 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2025-05-21 21:20:02,389 middleware 19712 18644 Auth Request: GET /api/employees/me/
+INFO 2025-05-21 21:20:02,390 middleware 19712 18644 Auth Headers: {
+  "Content-Length": "",
+  "Content-Type": "text/plain",
+  "Host": "localhost:8000",
+  "User-Agent": "python-requests/2.32.3",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive",
+  "Authorization": "Bearer eyJhbGci..."
+}
+INFO 2025-05-21 21:20:02,406 middleware 19712 18644 Auth Response: 404
+WARNING 2025-05-21 21:20:02,407 middleware 19712 18644 Auth Error: {
+  "error": "No existe un perfil de empleado para este usuario"
+}
+WARNING 2025-05-21 21:20:02,408 log 19712 18644 Not Found: /api/employees/me/
+WARNING 2025-05-21 21:20:02,410 basehttp 19712 18644 "GET /api/employees/me/ HTTP/1.1" 404 61
+INFO 2025-05-21 21:30:30,172 autoreload 12904 7184 Watching for file changes with StatReloader
+INFO 2025-05-21 21:34:09,077 autoreload 20904 22480 Watching for file changes with StatReloader
+INFO 2025-05-21 21:34:55,605 autoreload 8032 21972 Watching for file changes with StatReloader
+INFO 2025-05-21 21:35:58,433 autoreload 19288 21492 Watching for file changes with StatReloader
+INFO 2025-05-21 21:39:25,464 middleware 19288 18600 Auth Request: POST /api/token/
+INFO 2025-05-21 21:39:25,465 middleware 19288 18600 Auth Headers: {
+  "Content-Length": "38",
+  "Content-Type": "application/json",
+  "Host": "localhost:8000",
+  "Connection": "keep-alive",
+  "Accept": "*/*",
+  "Accept-Language": "*",
+  "Sec-Fetch-Mode": "cors",
+  "User-Agent": "node",
+  "Pragma": "no-cache",
+  "Cache-Control": "no-cache",
+  "Accept-Encoding": "gzip, deflate"
+}
+INFO 2025-05-21 21:39:25,465 middleware 19288 18600 Auth Body: {
+  "username": "admin",
+  "password": "*****"
+}
+INFO 2025-05-21 21:39:26,365 middleware 19288 18600 Auth Response: 200
+INFO 2025-05-21 21:39:26,366 basehttp 19288 18600 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2025-05-21 21:39:26,373 middleware 19288 1988 Auth Request: GET /api/employees/me/
+INFO 2025-05-21 21:39:26,373 middleware 19288 1988 Auth Headers: {
+  "Content-Length": "",
+  "Content-Type": "text/plain",
+  "Host": "localhost:8000",
+  "Connection": "keep-alive",
+  "Authorization": "Bearer eyJhbGci...",
+  "Accept": "*/*",
+  "Accept-Language": "*",
+  "Sec-Fetch-Mode": "cors",
+  "User-Agent": "node",
+  "Pragma": "no-cache",
+  "Cache-Control": "no-cache",
+  "Accept-Encoding": "gzip, deflate"
+}
+INFO 2025-05-21 21:39:26,377 middleware 19288 1988 Auth Response: 404
+WARNING 2025-05-21 21:39:26,378 middleware 19288 1988 Auth Error: {
+  "error": "No existe un perfil de empleado para este usuario"
+}
+WARNING 2025-05-21 21:39:26,378 log 19288 1988 Not Found: /api/employees/me/
+WARNING 2025-05-21 21:39:26,378 basehttp 19288 1988 "GET /api/employees/me/ HTTP/1.1" 404 61
+INFO 2025-05-21 21:39:39,572 middleware 19288 21508 Auth Request: POST /api/token/
+INFO 2025-05-21 21:39:39,573 middleware 19288 21508 Auth Headers: {
+  "Content-Length": "41",
+  "Content-Type": "application/json",
+  "Host": "localhost:8000",
+  "User-Agent": "python-requests/2.32.3",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive"
+}
+INFO 2025-05-21 21:39:39,573 middleware 19288 21508 Auth Body: {
+  "username": "admin",
+  "password": "*****"
+}
+INFO 2025-05-21 21:39:40,457 middleware 19288 21508 Auth Response: 200
+INFO 2025-05-21 21:39:40,457 basehttp 19288 21508 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2025-05-21 21:39:42,498 middleware 19288 21256 Auth Request: GET /api/employees/me/
+INFO 2025-05-21 21:39:42,498 middleware 19288 21256 Auth Headers: {
+  "Content-Length": "",
+  "Content-Type": "text/plain",
+  "Host": "localhost:8000",
+  "User-Agent": "python-requests/2.32.3",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive",
+  "Authorization": "Bearer eyJhbGci..."
+}
+INFO 2025-05-21 21:39:42,501 middleware 19288 21256 Auth Response: 404
+WARNING 2025-05-21 21:39:42,502 middleware 19288 21256 Auth Error: {
+  "error": "No existe un perfil de empleado para este usuario"
+}
+WARNING 2025-05-21 21:39:42,502 log 19288 21256 Not Found: /api/employees/me/
+WARNING 2025-05-21 21:39:42,503 basehttp 19288 21256 "GET /api/employees/me/ HTTP/1.1" 404 61
+INFO 2025-05-21 21:40:45,647 middleware 19288 22524 Auth Request: POST /api/token/
+INFO 2025-05-21 21:40:45,648 middleware 19288 22524 Auth Headers: {
+  "Content-Length": "41",
+  "Content-Type": "application/json",
+  "Host": "localhost:8000",
+  "User-Agent": "python-requests/2.32.3",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive"
+}
+INFO 2025-05-21 21:40:45,649 middleware 19288 22524 Auth Body: {
+  "username": "admin",
+  "password": "*****"
+}
+INFO 2025-05-21 21:40:46,503 middleware 19288 22524 Auth Response: 200
+INFO 2025-05-21 21:40:46,503 basehttp 19288 22524 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2025-05-21 21:40:48,527 middleware 19288 19544 Auth Request: GET /api/employees/me/
+INFO 2025-05-21 21:40:48,529 middleware 19288 19544 Auth Headers: {
+  "Content-Length": "",
+  "Content-Type": "text/plain",
+  "Host": "localhost:8000",
+  "User-Agent": "python-requests/2.32.3",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive",
+  "Authorization": "Bearer eyJhbGci..."
+}
+INFO 2025-05-21 21:40:48,553 middleware 19288 19544 Auth Response: 200
+INFO 2025-05-21 21:40:48,555 basehttp 19288 19544 "GET /api/employees/me/ HTTP/1.1" 200 189
+INFO 2025-05-21 21:40:50,606 middleware 19288 13100 Auth Request: POST /api/token/refresh/
+INFO 2025-05-21 21:40:50,607 middleware 19288 13100 Auth Headers: {
+  "Content-Length": "244",
+  "Content-Type": "application/json",
+  "Host": "localhost:8000",
+  "User-Agent": "python-requests/2.32.3",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive"
+}
+INFO 2025-05-21 21:40:50,608 middleware 19288 13100 Auth Body: {
+  "refresh": "eyJhbGciOi..."
+}
+ERROR 2025-05-21 21:40:50,751 log 19288 13100 Internal Server Error: /api/token/refresh/
+Traceback (most recent call last):
+  File "D:\LollyPos\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\LollyPos\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\LollyPos\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "D:\LollyPos\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\LollyPos\backend\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "D:\LollyPos\backend\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "D:\LollyPos\backend\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "D:\LollyPos\backend\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "D:\LollyPos\backend\venv\Lib\site-packages\rest_framework_simplejwt\views.py", line 44, in post
+    serializer.is_valid(raise_exception=True)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\LollyPos\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 225, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+                           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "D:\LollyPos\backend\venv\Lib\site-packages\rest_framework\serializers.py", line 447, in run_validation
+    value = self.validate(value)
+  File "D:\LollyPos\backend\venv\Lib\site-packages\rest_framework_simplejwt\serializers.py", line 141, in validate
+    refresh.outstand()
+    ~~~~~~~~~~~~~~~~^^
+  File "D:\LollyPos\backend\venv\Lib\site-packages\rest_framework_simplejwt\tokens.py", line 222, in outstand
+    return OutstandingToken.objects.get_or_create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'OutstandingToken' has no attribute 'objects'
+INFO 2025-05-21 21:40:50,755 middleware 19288 13100 Auth Response: 500
+ERROR 2025-05-21 21:40:50,756 basehttp 19288 13100 "POST /api/token/refresh/ HTTP/1.1" 500 119666
+INFO 2025-05-21 21:45:09,734 autoreload 19288 21492 D:\LollyPos\backend\lollypos_project\settings.py changed, reloading.
+INFO 2025-05-21 21:45:10,587 autoreload 19376 17616 Watching for file changes with StatReloader
+INFO 2025-05-21 21:46:36,729 autoreload 21224 15312 Watching for file changes with StatReloader
+INFO 2025-05-21 21:46:49,660 middleware 19376 7840 Auth Request: POST /api/token/
+INFO 2025-05-21 21:46:49,660 middleware 19376 7840 Auth Headers: {
+  "Content-Length": "38",
+  "Content-Type": "application/json",
+  "Host": "localhost:8000",
+  "Connection": "keep-alive",
+  "Accept": "*/*",
+  "Accept-Language": "*",
+  "Sec-Fetch-Mode": "cors",
+  "User-Agent": "node",
+  "Pragma": "no-cache",
+  "Cache-Control": "no-cache",
+  "Accept-Encoding": "gzip, deflate"
+}
+INFO 2025-05-21 21:46:49,661 middleware 19376 7840 Auth Body: {
+  "username": "admin",
+  "password": "*****"
+}
+INFO 2025-05-21 21:46:50,584 middleware 19376 7840 Auth Response: 200
+INFO 2025-05-21 21:46:50,585 basehttp 19376 7840 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2025-05-21 21:46:50,591 middleware 19376 8492 Auth Request: GET /api/employees/me/
+INFO 2025-05-21 21:46:50,592 middleware 19376 8492 Auth Headers: {
+  "Content-Length": "",
+  "Content-Type": "text/plain",
+  "Host": "localhost:8000",
+  "Connection": "keep-alive",
+  "Authorization": "Bearer eyJhbGci...",
+  "Accept": "*/*",
+  "Accept-Language": "*",
+  "Sec-Fetch-Mode": "cors",
+  "User-Agent": "node",
+  "Pragma": "no-cache",
+  "Cache-Control": "no-cache",
+  "Accept-Encoding": "gzip, deflate"
+}
+INFO 2025-05-21 21:46:50,598 middleware 19376 8492 Auth Response: 200
+INFO 2025-05-21 21:46:50,599 basehttp 19376 8492 "GET /api/employees/me/ HTTP/1.1" 200 189
+INFO 2025-05-21 21:47:04,200 middleware 19376 18764 Auth Request: POST /api/token/
+INFO 2025-05-21 21:47:04,201 middleware 19376 18764 Auth Headers: {
+  "Content-Length": "41",
+  "Content-Type": "application/json",
+  "Host": "localhost:8000",
+  "User-Agent": "python-requests/2.32.3",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive"
+}
+INFO 2025-05-21 21:47:04,201 middleware 19376 18764 Auth Body: {
+  "username": "admin",
+  "password": "*****"
+}
+INFO 2025-05-21 21:47:05,037 middleware 19376 18764 Auth Response: 200
+INFO 2025-05-21 21:47:05,038 basehttp 19376 18764 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2025-05-21 21:47:07,091 middleware 19376 9252 Auth Request: GET /api/employees/me/
+INFO 2025-05-21 21:47:07,092 middleware 19376 9252 Auth Headers: {
+  "Content-Length": "",
+  "Content-Type": "text/plain",
+  "Host": "localhost:8000",
+  "User-Agent": "python-requests/2.32.3",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive",
+  "Authorization": "Bearer eyJhbGci..."
+}
+INFO 2025-05-21 21:47:07,097 middleware 19376 9252 Auth Response: 200
+INFO 2025-05-21 21:47:07,097 basehttp 19376 9252 "GET /api/employees/me/ HTTP/1.1" 200 189
+INFO 2025-05-21 21:47:09,127 middleware 19376 18528 Auth Request: POST /api/token/refresh/
+INFO 2025-05-21 21:47:09,127 middleware 19376 18528 Auth Headers: {
+  "Content-Length": "244",
+  "Content-Type": "application/json",
+  "Host": "localhost:8000",
+  "User-Agent": "python-requests/2.32.3",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive"
+}
+INFO 2025-05-21 21:47:09,128 middleware 19376 18528 Auth Body: {
+  "refresh": "eyJhbGciOi..."
+}
+INFO 2025-05-21 21:47:09,130 middleware 19376 18528 Auth Response: 200
+INFO 2025-05-21 21:47:09,131 basehttp 19376 18528 "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2025-05-21 21:47:11,148 middleware 19376 20068 Auth Request: GET /api/employees/me/
+INFO 2025-05-21 21:47:11,148 middleware 19376 20068 Auth Headers: {
+  "Content-Length": "",
+  "Content-Type": "text/plain",
+  "Host": "localhost:8000",
+  "User-Agent": "python-requests/2.32.3",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive",
+  "Authorization": "Bearer eyJhbGci..."
+}
+INFO 2025-05-21 21:47:11,152 middleware 19376 20068 Auth Response: 200
+INFO 2025-05-21 21:47:11,153 basehttp 19376 20068 "GET /api/employees/me/ HTTP/1.1" 200 189
+INFO 2025-05-21 21:47:22,329 middleware 19376 7184 Auth Request: POST /api/token/
+INFO 2025-05-21 21:47:22,329 middleware 19376 7184 Auth Headers: {
+  "Content-Length": "38",
+  "Content-Type": "application/json",
+  "Host": "localhost:8000",
+  "Connection": "keep-alive",
+  "Accept": "*/*",
+  "Accept-Language": "*",
+  "Sec-Fetch-Mode": "cors",
+  "User-Agent": "node",
+  "Pragma": "no-cache",
+  "Cache-Control": "no-cache",
+  "Accept-Encoding": "gzip, deflate"
+}
+INFO 2025-05-21 21:47:22,330 middleware 19376 7184 Auth Body: {
+  "username": "admin",
+  "password": "*****"
+}
+INFO 2025-05-21 21:47:23,235 middleware 19376 7184 Auth Response: 200
+INFO 2025-05-21 21:47:23,236 basehttp 19376 7184 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2025-05-21 21:47:23,240 middleware 19376 17108 Auth Request: GET /api/employees/me/
+INFO 2025-05-21 21:47:23,241 middleware 19376 17108 Auth Headers: {
+  "Content-Length": "",
+  "Content-Type": "text/plain",
+  "Host": "localhost:8000",
+  "Connection": "keep-alive",
+  "Authorization": "Bearer eyJhbGci...",
+  "Accept": "*/*",
+  "Accept-Language": "*",
+  "Sec-Fetch-Mode": "cors",
+  "User-Agent": "node",
+  "Pragma": "no-cache",
+  "Cache-Control": "no-cache",
+  "Accept-Encoding": "gzip, deflate"
+}
+INFO 2025-05-21 21:47:23,247 middleware 19376 17108 Auth Response: 200
+INFO 2025-05-21 21:47:23,247 basehttp 19376 17108 "GET /api/employees/me/ HTTP/1.1" 200 189
+INFO 2025-05-21 21:56:32,114 middleware 19376 12548 Auth Request: POST /api/token/
+INFO 2025-05-21 21:56:32,115 middleware 19376 12548 Auth Headers: {
+  "Content-Length": "41",
+  "Content-Type": "application/json",
+  "Host": "localhost:8000",
+  "User-Agent": "python-requests/2.32.3",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive"
+}
+INFO 2025-05-21 21:56:32,116 middleware 19376 12548 Auth Body: {
+  "username": "admin",
+  "password": "*****"
+}
+INFO 2025-05-21 21:56:32,999 middleware 19376 12548 Auth Response: 200
+INFO 2025-05-21 21:56:33,000 basehttp 19376 12548 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2025-05-21 21:56:35,030 middleware 19376 19536 Auth Request: GET /api/employees/me/
+INFO 2025-05-21 21:56:35,030 middleware 19376 19536 Auth Headers: {
+  "Content-Length": "",
+  "Content-Type": "text/plain",
+  "Host": "localhost:8000",
+  "User-Agent": "python-requests/2.32.3",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive",
+  "Authorization": "Bearer eyJhbGci..."
+}
+INFO 2025-05-21 21:56:35,036 middleware 19376 19536 Auth Response: 200
+INFO 2025-05-21 21:56:35,036 basehttp 19376 19536 "GET /api/employees/me/ HTTP/1.1" 200 189
+INFO 2025-05-21 21:56:37,051 middleware 19376 17056 Auth Request: POST /api/token/refresh/
+INFO 2025-05-21 21:56:37,052 middleware 19376 17056 Auth Headers: {
+  "Content-Length": "244",
+  "Content-Type": "application/json",
+  "Host": "localhost:8000",
+  "User-Agent": "python-requests/2.32.3",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive"
+}
+INFO 2025-05-21 21:56:37,052 middleware 19376 17056 Auth Body: {
+  "refresh": "eyJhbGciOi..."
+}
+INFO 2025-05-21 21:56:37,057 middleware 19376 17056 Auth Response: 200
+INFO 2025-05-21 21:56:37,058 basehttp 19376 17056 "POST /api/token/refresh/ HTTP/1.1" 200 241
+INFO 2025-05-21 21:56:39,084 middleware 19376 14100 Auth Request: GET /api/employees/me/
+INFO 2025-05-21 21:56:39,084 middleware 19376 14100 Auth Headers: {
+  "Content-Length": "",
+  "Content-Type": "text/plain",
+  "Host": "localhost:8000",
+  "User-Agent": "python-requests/2.32.3",
+  "Accept-Encoding": "gzip, deflate",
+  "Accept": "*/*",
+  "Connection": "keep-alive",
+  "Authorization": "Bearer eyJhbGci..."
+}
+INFO 2025-05-21 21:56:39,088 middleware 19376 14100 Auth Response: 200
+INFO 2025-05-21 21:56:39,089 basehttp 19376 14100 "GET /api/employees/me/ HTTP/1.1" 200 189
+INFO 2025-05-21 22:02:47,023 autoreload 19376 17616 D:\LollyPos\backend\lollypos_project\settings.py changed, reloading.
+INFO 2025-05-21 22:02:47,033 autoreload 21224 15312 D:\LollyPos\backend\lollypos_project\settings.py changed, reloading.
+INFO 2025-05-21 22:02:48,454 autoreload 8824 11804 Watching for file changes with StatReloader
+INFO 2025-05-21 22:02:48,530 autoreload 21992 13088 Watching for file changes with StatReloader
+INFO 2025-05-21 22:40:32,780 basehttp 8824 14148 "OPTIONS /api/ingredients/ HTTP/1.1" 200 0
+INFO 2025-05-21 22:40:32,784 basehttp 8824 14148 "OPTIONS /api/ingredients/low_stock/ HTTP/1.1" 200 0
+INFO 2025-05-21 22:40:32,797 basehttp 8824 14148 "OPTIONS /api/ingredients/low_stock/ HTTP/1.1" 200 0
+INFO 2025-05-21 22:40:32,800 basehttp 8824 12452 "OPTIONS /api/ingredients/ HTTP/1.1" 200 0
+INFO 2025-05-21 22:40:32,871 basehttp 8824 14412 "GET /api/ingredients/low_stock/ HTTP/1.1" 200 2
+INFO 2025-05-21 22:40:32,887 basehttp 8824 12452 "GET /api/ingredients/low_stock/ HTTP/1.1" 200 2
+INFO 2025-05-21 22:40:32,900 basehttp 8824 14148 "GET /api/ingredients/ HTTP/1.1" 200 2599
+INFO 2025-05-21 22:40:32,917 basehttp 8824 12452 "GET /api/ingredients/ HTTP/1.1" 200 2599
+INFO 2025-05-21 22:40:49,594 basehttp 8824 12452 "OPTIONS /api/orders/by_date/?start_date=2025-05-21&end_date=2025-05-21 HTTP/1.1" 200 0
+INFO 2025-05-21 22:40:49,607 basehttp 8824 12452 "GET /api/orders/by_date/?start_date=2025-05-21&end_date=2025-05-21 HTTP/1.1" 200 2
+INFO 2025-05-21 22:40:49,620 basehttp 8824 12452 "GET /api/orders/by_date/?start_date=2025-05-21&end_date=2025-05-21 HTTP/1.1" 200 2
+INFO 2025-05-21 22:41:00,282 basehttp 8824 12452 "OPTIONS /api/tables/ HTTP/1.1" 200 0
+INFO 2025-05-21 22:41:00,319 basehttp 8824 12452 "GET /api/tables/ HTTP/1.1" 200 1043
+INFO 2025-05-21 22:41:00,331 basehttp 8824 14148 "GET /api/tables/ HTTP/1.1" 200 1043
+INFO 2025-05-21 22:41:19,857 basehttp 8824 14148 "OPTIONS /api/employees/ HTTP/1.1" 200 0
+INFO 2025-05-21 22:41:19,875 basehttp 8824 14148 "GET /api/employees/ HTTP/1.1" 200 859
+INFO 2025-05-21 22:41:20,124 basehttp 8824 14148 "GET /api/employees/ HTTP/1.1" 200 859
+INFO 2025-05-21 22:41:33,812 basehttp 8824 14148 "OPTIONS /api/orders/by_date/?start_date=2025-05-14&end_date=2025-05-21 HTTP/1.1" 200 0
+INFO 2025-05-21 22:41:33,825 basehttp 8824 14148 "GET /api/orders/by_date/?start_date=2025-05-14&end_date=2025-05-21 HTTP/1.1" 200 2
+INFO 2025-05-21 22:41:33,898 basehttp 8824 14148 "GET /api/orders/by_date/?start_date=2025-05-14&end_date=2025-05-21 HTTP/1.1" 200 2
+INFO 2025-05-21 22:49:46,094 middleware 21992 17248 Auth Request: POST /api/token/
+INFO 2025-05-21 22:49:46,094 middleware 21992 17248 Auth Headers: {
+  "Content-Length": "38",
+  "Content-Type": "application/json",
+  "Host": "localhost:8000",
+  "Connection": "keep-alive",
+  "Accept": "*/*",
+  "Accept-Language": "*",
+  "Sec-Fetch-Mode": "cors",
+  "User-Agent": "node",
+  "Pragma": "no-cache",
+  "Cache-Control": "no-cache",
+  "Accept-Encoding": "gzip, deflate"
+}
+INFO 2025-05-21 22:49:46,095 middleware 21992 17248 Auth Body: {
+  "username": "admin",
+  "password": "*****"
+}
+INFO 2025-05-21 22:49:46,980 middleware 21992 17248 Auth Response: 200
+INFO 2025-05-21 22:49:46,981 basehttp 21992 17248 "POST /api/token/ HTTP/1.1" 200 483
+INFO 2025-05-21 22:49:46,987 middleware 21992 8388 Auth Request: GET /api/employees/me/
+INFO 2025-05-21 22:49:46,988 middleware 21992 8388 Auth Headers: {
+  "Content-Length": "",
+  "Content-Type": "text/plain",
+  "Host": "localhost:8000",
+  "Connection": "keep-alive",
+  "Authorization": "Bearer eyJhbGci...",
+  "Accept": "*/*",
+  "Accept-Language": "*",
+  "Sec-Fetch-Mode": "cors",
+  "User-Agent": "node",
+  "Pragma": "no-cache",
+  "Cache-Control": "no-cache",
+  "Accept-Encoding": "gzip, deflate"
+}
+INFO 2025-05-21 22:49:46,995 middleware 21992 8388 Auth Response: 200
+INFO 2025-05-21 22:49:46,996 basehttp 21992 8388 "GET /api/employees/me/ HTTP/1.1" 200 189
+INFO 2025-05-21 22:50:33,394 basehttp 21992 19812 "GET /api/tables/ HTTP/1.1" 200 1043
+INFO 2025-05-21 22:50:33,400 basehttp 21992 19812 "GET /api/tables/ HTTP/1.1" 200 1043
+INFO 2025-05-21 22:50:48,449 basehttp 21992 19812 "OPTIONS /api/tables/1/active_orders/ HTTP/1.1" 200 0
+INFO 2025-05-21 22:50:48,455 basehttp 21992 19812 "GET /api/tables/1/active_orders/ HTTP/1.1" 200 2
+INFO 2025-05-21 22:51:09,803 basehttp 21992 19812 "GET /api/orders/by_date/?start_date=2025-05-21&end_date=2025-05-21 HTTP/1.1" 200 2
+INFO 2025-05-21 22:51:09,815 basehttp 21992 19812 "GET /api/orders/by_date/?start_date=2025-05-21&end_date=2025-05-21 HTTP/1.1" 200 2
+INFO 2025-05-21 22:52:17,517 basehttp 21992 19812 "OPTIONS /api/products/ HTTP/1.1" 200 0
+INFO 2025-05-21 22:52:17,590 basehttp 21992 19812 "GET /api/products/ HTTP/1.1" 200 6293
+INFO 2025-05-21 22:52:17,593 basehttp 21992 19812 "OPTIONS /api/categories/ HTTP/1.1" 200 0
+INFO 2025-05-21 22:52:17,595 basehttp 21992 19812 "OPTIONS /api/categories/ HTTP/1.1" 200 0
+INFO 2025-05-21 22:52:17,652 basehttp 21992 19812 "GET /api/products/ HTTP/1.1" 200 6293
+INFO 2025-05-21 22:52:17,659 basehttp 21992 19812 "GET /api/categories/ HTTP/1.1" 200 771
+INFO 2025-05-21 22:52:17,667 basehttp 21992 19812 "GET /api/categories/ HTTP/1.1" 200 771
